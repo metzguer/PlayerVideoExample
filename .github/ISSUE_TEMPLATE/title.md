@@ -7,12 +7,11 @@ assignees: ''
 
 ---
 
----
-Module: Sales
-Detected by: name dev team 
-Date: 11/oct/2021 
-Priority: Low 
----
+**Module:** Sales
+**Detected by:** name dev team 
+**Date:** 11/oct/2021 
+**Priority:** Low 
+ 
  
 **Describe the bug:**
 > the enter key does not work   
